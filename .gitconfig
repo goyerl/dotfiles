@@ -1,0 +1,9 @@
+[user]
+	email = goyerl@gmail.com
+	name = Luke Goyer
+
+[core]
+	editor = vim
+
+[alias]
+    lg = log --oneline --decorate --graph
